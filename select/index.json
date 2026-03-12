@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アケホノ",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-12T00:30:05.024714Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アケホノ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_アケホノ_スピッツ.txt"
+    }
+  ]
+}
